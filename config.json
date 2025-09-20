@@ -2,6 +2,7 @@
 	"pathname": "/play",
 	"file": "/hbui/index.html",
 	"panorama": "chase-the-skies",
-	"use_translation": true,
+	"use_translation": false,
 	"locale": "en_US"
+
 }
